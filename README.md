@@ -27,3 +27,47 @@ We will learn about formik for dealing with form
 Student EX.
 
 You will need to create HOC and render props and custom hooks for logging to a logging server.
+
+### Video Lectures
+
+- 01 React Introduction
+  - https://youtu.be/bVPMCmTN__Q 
+
+- 02 JSX
+  - https://youtu.be/s_ctvfeA58c
+
+- 03 create-react-app
+  - https://youtu.be/n-GATg31ctE
+
+- 04 React Components
+  - https://youtu.be/jpmyfv_w-fw
+
+- 05 React Components EX
+  - https://youtu.be/8vgzC3CI510
+
+- 06 React Forms
+  - https://youtu.be/CAobBdYor6U
+
+- 07 React Forms EX
+  - https://youtu.be/8BtdI3-ateM
+
+- 08 React Components Communication
+  - https://youtu.be/UAQSiaWG9kM
+
+- 09 React Redux
+  - https://youtu.be/7pZmBah66zE
+
+- 10 React Redux EX
+  - https://youtu.be/3PKv9gG68Pg
+
+- 11 React Router
+  - https://youtu.be/TR5Dx8_cJcA
+
+- 12 React Router EX
+  - https://youtu.be/e0X9Ipr0OZs
+
+- 13 React Unit Test
+  - https://youtu.be/Kaz2yD3-8qk
+
+- 14 React E2E Tests
+  - https://youtu.be/Ht_f1gCj6uo
