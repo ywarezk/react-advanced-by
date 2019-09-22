@@ -46,6 +46,7 @@ export default class RegisterControlled extends React.Component {
     render() {
         return (
             <form  onSubmit={this.handleLogin} noValidate>
+                
                 <input 
                     value={this.state.email} type="email" name="email" placeholder="email" onChange={this.somethingChanged2} />
                 <br/>
