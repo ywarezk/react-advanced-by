@@ -1,5 +1,6 @@
 import React from 'react';
 import formsHoc from '../forms.hoc';
+import StrongerForm from '../forms.renderprops';
 
 
 class LoginControlled extends React.Component {
