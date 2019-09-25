@@ -51,6 +51,9 @@ You will need to create HOC and render props and custom hooks for logging to a l
 - 07 React Forms EX
   - https://youtu.be/8BtdI3-ateM
 
+- 07.1 HOC, Render Props, Custom Hooks EX.
+  - https://youtu.be/-tmLZX6scnY
+
 - 08 React Components Communication
   - https://youtu.be/UAQSiaWG9kM
 
@@ -71,3 +74,6 @@ You will need to create HOC and render props and custom hooks for logging to a l
 
 - 14 React E2E Tests
   - https://youtu.be/Ht_f1gCj6uo
+
+- 15 RXJS
+  - https://youtu.be/rLPW1VowY1E
