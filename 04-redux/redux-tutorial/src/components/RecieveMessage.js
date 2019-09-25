@@ -10,7 +10,7 @@ const RecieveMessage = (props) => {
 const StrogerRecieveMessage = connect(
     (state) => {
         return {
-            messageFromState: state.message
+            messageFromState: state.hello.message
         }
     }
 )(RecieveMessage);

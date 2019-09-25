@@ -1,5 +1,12 @@
-import { createStore } from 'redux';
+import { createStore, applyMiddleware } from 'redux';
+import unbitedReducer from './reducers';
+import { composeWithDevTools } from 'redux-devtools-extension';
+import thunk from 'redux-thunk';
 
-const store = createStore(state => state, { message: 'initial value from redux'});
+const store = createStore(unbitedReducer, composeWithDevTools(
+    applyMiddleware(
+        thunk
+    )
+));
 
 export default store;
