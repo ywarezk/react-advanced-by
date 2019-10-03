@@ -21,7 +21,8 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'test.js'
+      'test.js',
+      // 'test2.js'
     ],
 
 
@@ -37,6 +38,8 @@ module.exports = function(config) {
     },
 
     webpack: {
+      devtool: 'inline-sourcemap',
+      mode: 'development',
       module: {
         rules: [
           {

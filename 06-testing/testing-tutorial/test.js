@@ -1,4 +1,4 @@
-
+import './src/index.css';
 
 
 var requireTest = require.context('./src', true, /\.test\.js$/);
