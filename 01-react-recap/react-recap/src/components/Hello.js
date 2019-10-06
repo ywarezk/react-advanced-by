@@ -1,8 +1,17 @@
 
 import React from 'react';
+import PropTypes from 'prop-types';
 
 
 class Hello extends React.Component {
+    static propTypes = {
+        message: PropTypes.string.isRequired
+    }
+
+    static defaultProps = {
+        message: 'default value'
+    }
+
     state = {
         isVisible : true,
         message: 'hello'

@@ -1,7 +1,13 @@
 import React from 'react';
 
-export default () => {
+const Hello = (props) => {
     return (
-        <h1>Hello world</h1>
+        <h1>{props.message}</h1>
     )
 }
+
+Hello.defaultProps = {
+    message: 'hello default message'
+}
+
+export default Hello;

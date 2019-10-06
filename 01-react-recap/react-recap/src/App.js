@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <Todo />
-      {/* <PninitHello message={'hello from prop'} stamArr={ [1,2,3] } stamObj={ {foo: 'bar'} } lurem="ipsum" /> */}
+      <PninitHello message={'hello from prop'} stamArr={ [1,2,3] } stamObj={ {foo: 'bar'} } lurem="ipsum" />
     </div>
   );
 }
